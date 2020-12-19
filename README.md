@@ -2,7 +2,7 @@
 
 ### 供应商
 
-感谢 [Jsdelivr](https://www.jsdelivr.com/) 为本仓库提供免费 CDN 服务，根链接：
+感谢 [Jsdelivr](https://www.jsdelivr.com/) 为本仓库提供免费 CDN 服务，根链接：https://cdn.jsdelivr.net/gh/jitwxs/cdn/blog
 
 ### 目录
 
